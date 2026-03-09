@@ -1,0 +1,1 @@
+ALTER TABLE "messages" ADD COLUMN "message_thread_id" integer;

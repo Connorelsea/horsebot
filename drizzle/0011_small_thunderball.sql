@@ -1,0 +1,1 @@
+ALTER TABLE "chats" ADD COLUMN "permission" text DEFAULT 'none' NOT NULL;
