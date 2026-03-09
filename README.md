@@ -1,4 +1,4 @@
-# Corehole Bot
+# Horsebot
 
 A Telegram group chat bot powered by Claude that participates naturally in conversations. It uses session-based context management with intelligent message batching, a relevance classifier, and a sliding-window chunk system to maintain long-term memory across conversations.
 
@@ -48,7 +48,7 @@ You'll also need [Node.js](https://nodejs.org) 18+ and [ngrok](https://ngrok.com
 
 ```bash
 git clone <repo-url>
-cd corehole-bot
+cd horsebot
 npm install
 ```
 
